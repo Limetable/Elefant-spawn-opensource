@@ -1,0 +1,3 @@
+Limta_bot:
+
+/summon minecraft:armor_stand ~ ~ ~ {Invulnerable:true,NoBasePlate:true,ShowArms:true,Rotation:[269f],CustomNameVisible:true,CustomName:'{"text":"Limeta_bot_87f45","color":"dark_aqua","bold":true}',Pose:{Head:[333f,16f,1f],LeftArm:[16f,0f,0f],RightArm:[205f,50f,337f]},ArmorItems:[{id:"iron_boots",Count:1},{id:"chainmail_leggings",Count:1},{id:"chainmail_chestplate",Count:1},{id:"player_head",Count:1,tag:{SkullOwner:"piglin_head"}}],HandItems:[{id:"netherite_axe",Count:1},{id:"trident",Count:1}]}
